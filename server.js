@@ -38,7 +38,7 @@ app.get('/api/notes', (req, res) => {
 app.get('/api/notes/:id', (req,res) => {
     const result =findById(req.params.id, notes);
     if (result){
-    res.json(result);
+        res.json(result);
     } else {
         res.send(404);
     }
