@@ -1,14 +1,19 @@
 {
-    "notes": [
-        {
-            "id": "0",
-            "title": "Test One",
-            "text": "This is a test of the note system. This is only a test"
-        },
-        {
-            "id": "1",
-            "title": "Test Two",
-            "text": "This is a test of the note system.  Much like the first test, this is only a test"
-        }
-    ]
+  "notes": [
+    {
+      "id": "0",
+      "title": "Test One",
+      "text": "This is a test of the note system. This is only a test"
+    },
+    {
+      "id": "1",
+      "title": "Test Two",
+      "text": "This is a test of the note system.  Much like the first test, this is only a test"
+    },
+    {
+      "title": "Test Three",
+      "text": "This is note test three",
+      "id": "2"
+    }
+  ]
 }
