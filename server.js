@@ -84,12 +84,15 @@ app.post('/api/notes', (req, res) =>{
 
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, './public/index.html'));
-  });
+});
 
   app.get('/notes', (req, res) => {
     res.sendFile(path.join(__dirname, './public/notes.html'));
-  });
+});
 
+  app.delete('/', (req, res) => {
+    res.send("DELETE")
+  });
 //End routes
 
 app.listen(PORT, () => {
