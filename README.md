@@ -29,3 +29,5 @@ http://github.com/FatherDkay
 
 ## Email
 paul.d.bailey@hotmail.com
+
+![ScreenShot](/public/assets/NoteTakerScreenShot.jpg "Screen Shot of Notetaker")
