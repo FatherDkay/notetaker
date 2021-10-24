@@ -6,6 +6,7 @@
 * [Contribution](#contribution)
 * [License](#license)
 * [GitHub User Name / Email](#user)
+* [Screenshot](#screenshot)
 
 ## Description
 This is a simple system to create helpful notes using expresss.  Notes can be created and stored.  Currently the delete function is not working.
@@ -30,4 +31,5 @@ http://github.com/FatherDkay
 ## Email
 paul.d.bailey@hotmail.com
 
+## Screenshot
 ![ScreenShot](/public/assets/NoteTakerScreenShot.jpg "Screen Shot of Notetaker")
